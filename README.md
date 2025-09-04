@@ -97,7 +97,7 @@ Insight: Lists customers with the highest fraud probability scores.
 
 - Top high-risk customers.
 
-##Future Enhancements
+## Future Enhancements
 
 Automate fraud detection pipeline using Python + SQL.
 
